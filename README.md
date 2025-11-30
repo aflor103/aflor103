@@ -1,5 +1,5 @@
 <h1>Hi, I'm Avery Flores!</h1>
-<b><i>hello my name is avery</b></i>
+<b><i>hello my name is avery and here a few of my personal projects!</b></i>
 <h2>👨‍💻 Indepedent Projects:</h2>
 
 - <b>Designing and creating my own FPV drone!</b>
