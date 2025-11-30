@@ -8,6 +8,9 @@
   - [AWS US East 1 Outage Google Slides Overview](https://github.com/aflor103/AWSUSEast1Outage/blob/main/README.md) 
 - <b>Ethics behind the use of CRISPR (ISP Research Poster)</b>
   - ["Where do you draw the line?" : Navigating Ethical Implications of CRISPR in Modern Medicine](https://github.com/aflor103/CRISPRandEthics)
+  - - <b>Join my FPV Drone RSO!</b>
+  - [Organization Overview](https://one.illinois.edu/flyillini/home/)
+  - [Follow us on Instagram!](https://www.instagram.com/flyillini/)
     
 <h2> 🤳 CONNECT WITH ME:</h2>
 
