@@ -15,7 +15,7 @@
 <h2> 🤳 CONNECT WITH ME:</h2>
 
 [<img align="left" width="22px" src="https://cdn.simpleicons.org/youtube/ffffff" />][youtube]
-[<img align="left" width="22px" style="filter: invert(1);" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" width="22px" src="https://cdn.simpleicons.org/linkedin/ffffff" />][linkedin]
 [<img align="left" width="22px" src="https://cdn.simpleicons.org/instagram/ffffff" />][instagram]
 
 
