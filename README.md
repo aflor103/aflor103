@@ -6,12 +6,9 @@
   - [My Drone Build! Video and Brief Overview](https://github.com/aflor103/mydronebuild/blob/main/README.md)
 - <b>AWS US East 1 Outage Solutions and Stategies</b>
   - [AWS US East 1 Outage Google Slides Overview](https://github.com/aflor103/AWSUSEast1Outage/blob/main/README.md) 
-- <b>"Where do you draw the line?" : Navigating Ethical Implications of CRISPR in Modern Medicine</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-
+- <b>Ethics behind the use of CRISPR (ISP Research Poster)</b>
+  - ["Where do you draw the line?" : Navigating Ethical Implications of CRISPR in Modern Medicine](https://github.com/aflor103/CRISPRandEthics)
+  - 
 <h2> 🤳 CONNECT WITH ME:</h2>
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
