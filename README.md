@@ -5,7 +5,7 @@
 - <b>Designing and creating my own FPV drone!</b>
   - [My Drone Build! Video and Brief Overview](https://github.com/aflor103/mydronebuild/blob/main/README.md)
 - <b>AWS US East 1 Outage Solutions and Stategies</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>yay code come back fix later lol</b></i>
+  - [AWS US East 1 Outage Google Slides Overview](https://github.com/aflor103/AWSUSEast1Outage/blob/main/README.md) <b><i>yay code come back fix later lol</b></i>
 - <b>"Where do you draw the line?" : Navigating Ethical Implications of CRISPR in Modern Medicine</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
