@@ -1,4 +1,4 @@
-<h1>Hi, I'm Avery Flores!</h1>
+<h1>Hi, I'm Avery O. Flores!</h1>
 <b><i>Hello my name is Avery and here a few things I've created!</b></i>
 <h2>👨‍💻 Indepedent Projects:</h2>
 
