@@ -8,7 +8,7 @@
   - [AWS US East 1 Outage Google Slides Overview](https://github.com/aflor103/AWSUSEast1Outage/blob/main/README.md) 
 - <b>Ethics behind the use of CRISPR (ISP Research Poster)</b>
   - ["Where do you draw the line?" : Navigating Ethical Implications of CRISPR in Modern Medicine](https://github.com/aflor103/CRISPRandEthics)
-  - 
+    
 <h2> 🤳 CONNECT WITH ME:</h2>
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
