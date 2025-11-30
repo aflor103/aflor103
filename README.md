@@ -3,7 +3,7 @@
 <h2>👨‍💻 Indepedent Projects:</h2>
 
 - <b>Designing and creating my own FPV drone!</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [My Drone Build! Video and Brief Overview](https://github.com/aflor103/mydronebuild/blob/main/README.md)
 - <b>AWS US East 1 Outage Solutions and Stategies</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>yay code come back fix later lol</b></i>
 - <b>"Where do you draw the line?" : Navigating Ethical Implications of CRISPR in Modern Medicine</b>
