@@ -11,6 +11,8 @@
 - <b>Join my FPV Drone RSO!</b>
   - [Organization Overview](https://one.illinois.edu/flyillini/home/)
   - [Follow us on Instagram!](https://www.instagram.com/flyillini/)
+  - [Engineering Open House Project](https://github.com/aflor103/EOH-Project/blob/main/README.md)
+    
     
 <h2> 🤳 CONNECT WITH ME:</h2>
 
