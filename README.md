@@ -10,8 +10,8 @@
   - ["Where do you draw the line?" : Navigating Ethical Implications of CRISPR in Modern Medicine](https://github.com/aflor103/CRISPRandEthics)
 - <b>Join my FPV Drone RSO!</b>
   - [Organization Overview](https://one.illinois.edu/flyillini/home/)
-  - [Follow us on Instagram!](https://www.instagram.com/flyillini/)
   - [Engineering Open House Project](https://github.com/aflor103/EOH-Project/blob/main/README.md)
+  - [Follow us on Instagram!](https://www.instagram.com/flyillini/)
     
     
 <h2> 🤳 CONNECT WITH ME:</h2>
