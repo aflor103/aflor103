@@ -1,6 +1,6 @@
 <h1>Hi, I'm Avery O. Flores!</h1>
 <b><i>Welcome! Here are a few things I've built! </b></i>
-<h2>👨‍💻 Indepedent Projects:</h2>
+<h2>👨‍💻 Personal Projects:</h2>
 
 - <b>Designing and creating my own FPV drone!</b>
   - [My Drone Build! Video and Brief Overview](https://github.com/aflor103/mydronebuild/blob/main/README.md)
