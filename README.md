@@ -4,6 +4,7 @@
 
 - <b>Designing and creating my own FPV drone!</b>
   - [My Drone Build! Video and Brief Overview](https://github.com/aflor103/mydronebuild/blob/main/README.md)
+  - - [My Drone Build! Photos Throughout the Build!](https://github.com/aflor103/Drone-Build-Photos-)
 - <b>AWS US East 1 Outage Solutions and Stategies</b>
   - [AWS US East 1 Outage Google Slides Overview](https://github.com/aflor103/AWSUSEast1Outage/blob/main/README.md) 
 - <b>Ethics behind the use of CRISPR (ISP Research Poster)</b>
