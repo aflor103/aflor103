@@ -18,7 +18,7 @@
 <h2> 🤳 CONNECT WITH ME:</h2>
 
 [<img align="left" width="22px" src="https://cdn.simpleicons.org/youtube/ffffff" />][youtube]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="aflor103 | LinkedIn" width="22px" src="https://www.citypng.com/public/uploads/preview/linkedin-square-white-icon-transparent-png-11640440452zi2ykndpw2.png" />][linkedin]
 [<img align="left" width="22px" src="https://cdn.simpleicons.org/instagram/ffffff" />][instagram]
 
 
