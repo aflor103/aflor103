@@ -1,5 +1,6 @@
 <h1>Hi, I'm Avery O. Flores!</h1>
 <b><i>Welcome! Here are a few things I've built! </b></i>
+<b><i>Welcome! (refresh if any images do not load!) </b></i>
 <h2>👨‍💻 Personal Projects:</h2>
 
 - <b>Designing and creating my own FPV drone!</b>
